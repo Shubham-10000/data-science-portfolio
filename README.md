@@ -44,5 +44,5 @@ This repository contains 20 Data Science assignments completed as part of my Dat
 **Shubham Sawant**  
 Data Analyst | Aspiring Data Scientist    
 📧 shubhamsawant@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/shubhamsawant) | [Portfolio](https://huggingface.co/Shubham-10000)
+🔗 [LinkedIn](https://www.linkedin.com/in/shubham-sawant-b67412208/) | [Portfolio](https://huggingface.co/Shubham-10000)
 

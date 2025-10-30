@@ -43,6 +43,6 @@ This repository contains 20 Data Science assignments completed as part of my Dat
 ## 🧑‍💻 Author
 **Shubham Sawant**  
 Data Analyst | Aspiring Data Scientist    
-📧 sawant.shubham1102@gmailcom  
+📧 sawant.shubham1102@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-sawant-b67412208/) | [Portfolio](https://huggingface.co/Shubham-10000)
 
